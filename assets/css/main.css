@@ -40,3 +40,7 @@ h5{
 	color: #8EA9ED;
 	-webkit-transition: all .0.5s ease-in-;
 }
+
+.box:hover h5{
+	color: #777777;
+}
